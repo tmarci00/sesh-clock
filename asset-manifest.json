@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sesh-clock/static/css/main.7d3975c4.css",
+    "main.js": "/sesh-clock/static/js/main.4a8b0b6c.js",
+    "static/js/787.edcd79e1.chunk.js": "/sesh-clock/static/js/787.edcd79e1.chunk.js",
+    "index.html": "/sesh-clock/index.html",
+    "main.7d3975c4.css.map": "/sesh-clock/static/css/main.7d3975c4.css.map",
+    "main.4a8b0b6c.js.map": "/sesh-clock/static/js/main.4a8b0b6c.js.map",
+    "787.edcd79e1.chunk.js.map": "/sesh-clock/static/js/787.edcd79e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d3975c4.css",
+    "static/js/main.4a8b0b6c.js"
+  ]
+}

@@ -84,7 +84,7 @@ function App() {
             setClockType('session');
           }
         }
-      }, 100);
+      }, 1000);
       return () => clearInterval(interval);
     }
   });
